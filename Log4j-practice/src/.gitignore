@@ -1,0 +1,6 @@
+#config
+.idea/
+./gradle
+gradlew
+gradle.bat
+gradle-wrapper.properties
